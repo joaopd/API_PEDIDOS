@@ -5,11 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="Maps\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\CmpPedidos.Domain\CmpPedidos.Domain.csproj" />
+    <ProjectReference Include="..\CmpPedidos.Interfaces\CmpPedidos.Interface.csproj" />
   </ItemGroup>
 
 </Project>

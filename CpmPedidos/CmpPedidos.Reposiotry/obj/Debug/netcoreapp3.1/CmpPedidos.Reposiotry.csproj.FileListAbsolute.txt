@@ -1,0 +1,9 @@
+C:\Users\jpkab\Documents\Projetos\.NETECORE\API_PEDIDOS\API_PEDIDOS\CpmPedidos\CmpPedidos.Reposiotry\bin\Debug\netcoreapp3.1\CmpPedidos.Reposiotry.deps.json
+C:\Users\jpkab\Documents\Projetos\.NETECORE\API_PEDIDOS\API_PEDIDOS\CpmPedidos\CmpPedidos.Reposiotry\bin\Debug\netcoreapp3.1\CmpPedidos.Reposiotry.dll
+C:\Users\jpkab\Documents\Projetos\.NETECORE\API_PEDIDOS\API_PEDIDOS\CpmPedidos\CmpPedidos.Reposiotry\bin\Debug\netcoreapp3.1\CmpPedidos.Reposiotry.pdb
+C:\Users\jpkab\Documents\Projetos\.NETECORE\API_PEDIDOS\API_PEDIDOS\CpmPedidos\CmpPedidos.Reposiotry\obj\Debug\netcoreapp3.1\CmpPedidos.Reposiotry.csprojAssemblyReference.cache
+C:\Users\jpkab\Documents\Projetos\.NETECORE\API_PEDIDOS\API_PEDIDOS\CpmPedidos\CmpPedidos.Reposiotry\obj\Debug\netcoreapp3.1\CmpPedidos.Reposiotry.AssemblyInfoInputs.cache
+C:\Users\jpkab\Documents\Projetos\.NETECORE\API_PEDIDOS\API_PEDIDOS\CpmPedidos\CmpPedidos.Reposiotry\obj\Debug\netcoreapp3.1\CmpPedidos.Reposiotry.AssemblyInfo.cs
+C:\Users\jpkab\Documents\Projetos\.NETECORE\API_PEDIDOS\API_PEDIDOS\CpmPedidos\CmpPedidos.Reposiotry\obj\Debug\netcoreapp3.1\CmpPedidos.Reposiotry.csproj.CoreCompileInputs.cache
+C:\Users\jpkab\Documents\Projetos\.NETECORE\API_PEDIDOS\API_PEDIDOS\CpmPedidos\CmpPedidos.Reposiotry\obj\Debug\netcoreapp3.1\CmpPedidos.Reposiotry.dll
+C:\Users\jpkab\Documents\Projetos\.NETECORE\API_PEDIDOS\API_PEDIDOS\CpmPedidos\CmpPedidos.Reposiotry\obj\Debug\netcoreapp3.1\CmpPedidos.Reposiotry.pdb

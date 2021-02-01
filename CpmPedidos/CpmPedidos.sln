@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CmpPedidos.Domain", "CmpPedidos.Domain\CmpPedidos.Domain.csproj", "{BF14F60B-DFD6-4582-9ECE-4AFE192495B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmpPedidos.Interfaces", "CmpPedidos.Interfaces\CmpPedidos.Interfaces.csproj", "{ACB2B453-1398-4016-B029-7EF70AA352B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmpPedidos.Interface", "CmpPedidos.Interfaces\CmpPedidos.Interface.csproj", "{ACB2B453-1398-4016-B029-7EF70AA352B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmpPedidos.Reposiotry", "CmpPedidos.Reposiotry\CmpPedidos.Reposiotry.csproj", "{A0EF9DFB-6597-40C5-9BDB-C3921DD7098F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmpPedidos.Api", "CmpPedidos.Api\CmpPedidos.Api.csproj", "{8432BAF9-06FF-48AE-9F4E-067F6A8ACF16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{ACB2B453-1398-4016-B029-7EF70AA352B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB2B453-1398-4016-B029-7EF70AA352B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB2B453-1398-4016-B029-7EF70AA352B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0EF9DFB-6597-40C5-9BDB-C3921DD7098F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EF9DFB-6597-40C5-9BDB-C3921DD7098F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EF9DFB-6597-40C5-9BDB-C3921DD7098F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EF9DFB-6597-40C5-9BDB-C3921DD7098F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8432BAF9-06FF-48AE-9F4E-067F6A8ACF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8432BAF9-06FF-48AE-9F4E-067F6A8ACF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8432BAF9-06FF-48AE-9F4E-067F6A8ACF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8432BAF9-06FF-48AE-9F4E-067F6A8ACF16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

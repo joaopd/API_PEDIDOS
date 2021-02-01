@@ -5,4 +5,11 @@
     <OutputType>Library</OutputType>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
 </Project>
