@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
+      "projectUniqueName": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
       "projectName": "CmpPedidos.Interface",
-      "projectPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
+      "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
       "packagesPath": "C:\\Users\\jpkab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\obj\\",
+      "outputPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jpkab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
-              "projectPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj"
+            "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
+              "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj"
             }
           }
         }

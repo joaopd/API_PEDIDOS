@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj": {}
+    "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
+    "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj",
         "projectName": "CmpPedidos.Domain",
-        "projectPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj",
+        "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj",
         "packagesPath": "C:\\Users\\jpkab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\obj\\",
+        "outputPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jpkab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj": {
+    "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
+        "projectUniqueName": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
         "projectName": "CmpPedidos.Interface",
-        "projectPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
+        "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
         "packagesPath": "C:\\Users\\jpkab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\obj\\",
+        "outputPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jpkab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
-                "projectPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj"
+              "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
+                "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj"
               }
             }
           }
@@ -116,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj": {
+    "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj",
+        "projectUniqueName": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj",
         "projectName": "CmpPedidos.Reposiotry",
-        "projectPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj",
+        "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj",
         "packagesPath": "C:\\Users\\jpkab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\obj\\",
+        "outputPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jpkab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,11 +140,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
-                "projectPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj"
+              "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
+                "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj"
               },
-              "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj": {
-                "projectPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj"
+              "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj": {
+                "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj"
               }
             }
           }
@@ -158,6 +158,38 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

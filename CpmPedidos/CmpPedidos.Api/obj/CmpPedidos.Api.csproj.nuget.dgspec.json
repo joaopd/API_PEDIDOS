@@ -1,17 +1,92 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\CmpPedidos.Api.csproj": {}
+    "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\CmpPedidos.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\CmpPedidos.Api.csproj": {
+    "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\CmpPedidos.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\CmpPedidos.Api.csproj",
+        "projectUniqueName": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\CmpPedidos.Api.csproj",
         "projectName": "CmpPedidos.Api",
-        "projectPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\CmpPedidos.Api.csproj",
+        "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\CmpPedidos.Api.csproj",
         "packagesPath": "C:\\Users\\jpkab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\obj\\",
+        "outputPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jpkab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
+                "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj"
+              },
+              "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj": {
+                "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj"
+              },
+              "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj": {
+                "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj",
+        "projectName": "CmpPedidos.Domain",
+        "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj",
+        "packagesPath": "C:\\Users\\jpkab\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jpkab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,9 +125,157 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
+        "projectName": "CmpPedidos.Interface",
+        "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj",
+        "packagesPath": "C:\\Users\\jpkab\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jpkab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
+                "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj",
+        "projectName": "CmpPedidos.Reposiotry",
+        "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj",
+        "packagesPath": "C:\\Users\\jpkab\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jpkab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj": {
+                "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj"
+              },
+              "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj": {
+                "projectPath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Interfaces\\CmpPedidos.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
