@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h74zqAkxeA+ciH5TSXqR0MGBksjxK1phLyQW55GuV7Vi6iPqsHRTKyTcmKBlJrYwhRg9Nx3lnZSeUMEjY0AArg==",
+  "dgSpecHash": "3IcYTMv86cKAb6VqAtGcu3QWNSGerQSDwuHwXBijIktPk7/PVTbm7EEzE9B3yLi5G06m5pUBgEajVtflVFToeQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj",
+  "projectFilePath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Domain\\CmpPedidos.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

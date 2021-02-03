@@ -7,11 +7,11 @@ namespace CmpPedidos.Reposiotry
   {
     public ComboMap() : base("tb_Combo")
     {
-        
+
     }
     public override void Configure(EntityTypeBuilder<Combo> builder)
     {
-      
+      base.Configure(builder);
     }
   }
 }

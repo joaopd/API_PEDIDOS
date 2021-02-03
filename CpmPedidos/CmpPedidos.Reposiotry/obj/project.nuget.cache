@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SoBqWgZg77lBeUF4wMh8GNE3/xYp5PLvdFdxG0Mrv5akQMdrcEDL/jjBmABOpxDMcTObgljLcCl5t5sIPMVEnw==",
+  "dgSpecHash": "J4FjBcdGaiZTHHINaw0FXGldePFzVLS4DQB+Z82PdjdyLYmrhnIyRBl+eGGFRJRSD8n4ouYNgHZjm9B2mY0fCA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj",
+  "projectFilePath": "C:\\Users\\jpkab\\Documents\\Projetos\\.NETECORE\\API_PEDIDOS\\API_PEDIDOS\\CpmPedidos\\CmpPedidos.Reposiotry\\CmpPedidos.Reposiotry.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jpkab\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jpkab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

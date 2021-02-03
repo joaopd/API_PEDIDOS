@@ -7,11 +7,11 @@ namespace CmpPedidos.Reposiotry
   {
     public ImagemMap() : base("tb_Imagem")
     {
-        
+
     }
     public override void Configure(EntityTypeBuilder<Imagem> builder)
     {
-      
+      base.Configure(builder);
     }
   }
 }

@@ -7,11 +7,11 @@ namespace CmpPedidos.Reposiotry
   {
     public ProdutoMap() : base("tb_Produto")
     {
-        
+
     }
     public override void Configure(EntityTypeBuilder<Produto> builder)
     {
-      
+      base.Configure(builder);
     }
   }
 }

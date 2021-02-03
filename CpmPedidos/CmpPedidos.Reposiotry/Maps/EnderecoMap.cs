@@ -7,11 +7,11 @@ namespace CmpPedidos.Reposiotry
   {
     public EnderecoMap() : base("tb_Endereco")
     {
-        
+
     }
     public override void Configure(EntityTypeBuilder<Endereco> builder)
     {
-      
+      base.Configure(builder);
     }
   }
 }
